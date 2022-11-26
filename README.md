@@ -1,6 +1,7 @@
 # Ensemble-Learning
 Types of Ensemble Learning in ML
 1. Basic decision tree classification model
-2. Voting ensemble Classifier
-3. Bagging Classifier Techniques
-4. AdaBoost code from Scratch
+2. Random Forest Classification
+3. Voting ensemble Classifier
+4. Bagging Classifier Techniques
+5. AdaBoost code from Scratch
