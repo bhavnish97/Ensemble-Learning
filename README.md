@@ -5,3 +5,4 @@ Types of Ensemble Learning in ML
 3. Voting ensemble Classifier
 4. Bagging Classifier Techniques
 5. AdaBoost code from Scratch
+6. Gradient Boost code from Scratch
