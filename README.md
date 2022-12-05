@@ -7,3 +7,4 @@ Types of Ensemble Learning in ML
 5. AdaBoost code from Scratch
 6. Gradient Boost code from Scratch
 7. Stacking Regressor
+8. Basic XGBoost Regression model
