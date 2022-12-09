@@ -9,4 +9,4 @@ Types of Ensemble Learning in ML
 7. Stacking Regressor
 8. Basic XGBoost Regression model
 9. XGBoost Classfication with EDA
-10. Ensemble Models
+10. All Ensemble Models comparision
