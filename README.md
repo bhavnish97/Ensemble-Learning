@@ -10,3 +10,4 @@ Types of Ensemble Learning in ML
 8. Basic XGBoost Regression model
 9. XGBoost Classfication with EDA
 10. All Ensemble Models comparision
+11. Hyperparameter tuning with GridSearchCV on Ensemble models
